@@ -49,3 +49,8 @@ open: which URL?
 
 ## Reliability (optional but nice)
 ❓ What do restart, healthchecks with depends_on, resource limits and log rotation each protect against?
+## Learning materials
+This stack is the base for a self-study DevOps track. See [`learn/`](learn/README.md):
+- [Docker capstone](learn/docker-capstone.md): build these three Dockerfiles and `compose.yaml` step by step
+- [Git CLI lab guide](learn/git-cli-lab-guide.md): six hands-on Git labs on a practice copy of Shortly
+- [Git Quest](learn/git-quest/index.html): seven scenario-based Git shifts in a simulated terminal (open the file in a browser)
